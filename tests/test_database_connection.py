@@ -19,3 +19,5 @@ def test_database_connection(db_connection):
         {"id": 1, "name": "first_record"},
         {"id": 2, "name": "second_record"}
     ]
+
+
